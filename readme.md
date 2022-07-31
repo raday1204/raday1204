@@ -1,5 +1,6 @@
-### Hi World 👋🌏 
-### Nice to see u.
+### Hi World 🖖🌏 
+
+[![image](https://www.queenshill.norfolk.sch.uk/wp-content/uploads/2020/06/welcome-image-2.jpg)](#)
 
 ### 🏷️ About Me 🏷️
 - My name is: Rada Yodkam
@@ -16,6 +17,8 @@
     - Embedded Systems
 
 ### My Social 📱
+  - [Facebook](https://www.facebook.com/profile.php?id=100006683326745) 
+  - [Intragram](https://www.instagram.com/benz_rada/)
 
 ## Developer Tech 🎓
 
