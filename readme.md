@@ -1,10 +1,23 @@
-### Hi there 👋 Nice to see u.
+### Hi World 👋🌏 
+### Nice to see u.
 
-- 😄 My name is: yourname ...
-- ⚡ Student id: ...
-- 🔭 I'm currently studying on Faculty of Engineering.
+### 🏷️ About Me 🏷️
+- My name is: Rada Yodkam
+- Student id: 63365298
+- I'm currently studying on Faculty of Engineering.
+- Career interest in the future 
+    - Programmer
+- Ability to program in different languages 
+    - Python
+    - C 
+    - HTML
+- Special aptitude, interest in computer engineering
+    - Computer Network
+    - Embedded Systems
 
-## Developer Tech
+### My Social 📱
+
+## Developer Tech 🎓
 
 ### Frameworks 
 <p align="left">
